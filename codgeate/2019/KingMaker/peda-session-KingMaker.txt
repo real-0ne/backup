@@ -1,0 +1,5 @@
+break *0x400ac5
+break *0x400ad7
+break *0x400ada
+break *0x400b2a
+
